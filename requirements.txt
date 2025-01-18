@@ -1,0 +1,5 @@
+albumentations
+imgaug
+ipyplot
+
+numpy=1.23.3
